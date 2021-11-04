@@ -55,7 +55,7 @@ auto main(int argc, char **argv) -> int
         std::cout << "verbose: " << verbose << std::endl;
     }
 
-    int a = 2;
+    // int a = 22;
 
     return 0;
 }
